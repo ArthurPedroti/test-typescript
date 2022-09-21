@@ -1,5 +1,5 @@
-import { Box } from '@chakra-ui/react'
+import { Heading } from '@chakra-ui/react'
 
-const Button = () => <Box>Button</Box>
+const Button = () => <Heading>Button</Heading>
 
 export default Button
